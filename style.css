@@ -1,0 +1,50 @@
+@import url('https://fonts.googleapis.com/css2?family=Ultra&display=swap');
+
+body {
+    background-image: url(IMG/Hieroglyphs-temple-Ombos-Egypt.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    text-align: center;
+    font-family: "Ultra", serif;
+    font-weight: 400;
+    font-style: normal;
+    opacity: 0.8;
+    margin-top: 1em;
+}
+
+h1, h3, summary {
+    border: 1px solid;
+    background-image: linear-gradient(#FFFDD0, #FEFDF3);
+    padding: 1em;
+    border-radius: 2em;
+    font-size: large;
+}
+
+h2 {
+    border: 1px solid;
+    background-image: linear-gradient(#FFFDD0, #FEFDF3);
+    padding: 1em;
+    border-radius: 2em;
+    font-size: medium;
+}
+
+#lablec  {
+    padding: 0.5em;
+    background-color: white;
+    margin: 0;
+    left: 0;
+    right: 0;
+}
+
+header {
+    margin-bottom: 0.5em;
+}
+
+p {
+    border: 1px solid black;
+    background-image: linear-gradient(#FFFDD0, #FEFDF3);
+    padding: 1em;
+    border-radius: 2em;
+    font-size: medium;
+}
